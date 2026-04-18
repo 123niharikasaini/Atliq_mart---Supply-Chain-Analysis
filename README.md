@@ -83,3 +83,4 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 3. Additionally, the top 5 customers — Lotus Mart, Acclaimed Store, Vijay Store, Rel Fresh, and Coolblue — contribute significantly to total order volume and are experiencing low on-time delivery performance. Improving OT% for these high-impact customers is critical to enhancing customer satisfaction and mitigating potential revenue risks.
 
 ### Dashboard
+https://github.com/123niharikasaini/Atliq_mart---Supply-Chain-Analysis/blob/main/Snapshot%20of%20dashborad.png
