@@ -33,11 +33,11 @@ fact_order_aggregate – Includes aggregated order-level metrics such as order p
 
 The dashboard tracks critical supply chain metrics including:
 
-On-Time Delivery (OT) % – An order-level metrics that determines if an order is delivered as per the agreed time with the customer.
-In-Full Delivery (IF) % – An order-level metrics that determines if an order is delivered in full as per the requested quantity by the customer.
-On-Time In-Full (OTIF) % – An order-level metrics that determines if orders delivered both on time and in full.
-Volume Fill Rate (VOFR) – Total quantity shipped for a customer per order or for a given period of time.
-Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lines ordered by a customer.
+1. On-Time Delivery (OT) % – An order-level metrics that determines if an order is delivered as per the agreed time with the customer.
+2. In-Full Delivery (IF) % – An order-level metrics that determines if an order is delivered in full as per the requested quantity by the customer.
+3. On-Time In-Full (OTIF) % – An order-level metrics that determines if orders delivered both on time and in full.
+4. Volume Fill Rate (VOFR) – Total quantity shipped for a customer per order or for a given period of time.
+5. Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lines ordered by a customer.
 
 ### Dashboard Components
 
