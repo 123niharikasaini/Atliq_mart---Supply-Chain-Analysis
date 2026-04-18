@@ -43,11 +43,11 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 
 1. KPI Trend Analysis
    Line charts showing historical trends for each key metric:
-   OT %
-   IF %
-   OTIF %
-   VOFR %
-   LIFR %
+   i. OT %
+   ii. IF %
+   iii. OTIF %
+   iv. VOFR %
+   v. LIFR %
 
    Each visualization includes a target value reference to compare actual performance with business expectations.
 
@@ -72,7 +72,8 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 5. Product-Level Insights
 
    A product performance matrix showing key metrics by product.
-   Sparklines are used to visualize monthly performance trends, enabling quick detection of improving or declining service levels.
+   Sparklines are used to visualize monthly performance trends, enabling quick detection of improving or declining
+   service levels.
 
 ### Key Insights
 
@@ -80,7 +81,7 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
    
 2. While OTIF% has shown a slight improvement in the recent period, this is mainly driven by a marginal increase in In-Full (IF%) performance. However, limited improvement in OT% continues to restrict overall service level growth.
 
-3. Additionally, the top 5 customers — Lotus Mart, Acclaimed Store, Vijay Store, Rel Fresh, and Coolblue — contribute significantly to total order volume and are experiencing low on-time delivery performance. Improving OT% for these high-impact customers is critical to enhancing customer satisfaction and mitigating potential revenue risks.
+3. Additionally, the top 5 customers - Lotus Mart, Acclaimed Store, Vijay Store, Rel Fresh, and Coolblue -contribute significantly to total order volume and are experiencing low on-time delivery performance. Improving OT% for these high-impact customers is critical to enhancing customer satisfaction and mitigating potential revenue risks.
 
 ### Dashboard
 https://github.com/123niharikasaini/Atliq_mart---Supply-Chain-Analysis/blob/main/Snapshot%20of%20dashborad.png
