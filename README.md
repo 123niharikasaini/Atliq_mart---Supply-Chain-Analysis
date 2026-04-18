@@ -43,11 +43,11 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 
 1. KPI Trend Analysis
    Line charts showing historical trends for each key metric:
-   i. OT %
-   ii. IF %
-   iii. OTIF %
-   iv. VOFR %
-   v. LIFR %
+   1. OT %
+   2. IF %
+   3. OTIF %
+   4. VOFR %
+   5. LIFR %
 
    Each visualization includes a target value reference to compare actual performance with business expectations.
 
@@ -63,9 +63,10 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 4. Customer-Level Service Insights
    A customer performance table presenting:
    
-   OTIF %
-   OT %
-   Target values
+   1. OTIF %
+   2. OT %
+   3. IF%
+   4. Target values
 
    This helps identify customers whose service levels are not meeting the targeted benchmarks.
 
