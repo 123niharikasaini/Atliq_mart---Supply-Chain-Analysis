@@ -42,37 +42,44 @@ Line Fill Rate (LIFR) – Determines how many lines shipped out of the total lin
 ### Dashboard Components
 
 1. KPI Trend Analysis
+   Line charts showing historical trends for each key metric:
+   OT %
+   IF %
+   OTIF %
+   VOFR %
+   LIFR %
 
-Line charts showing historical trends for each key metric:
-OT %
-IF %
-OTIF %
-VOFR %
-LIFR %
-
-Each visualization includes a target value reference to compare actual performance with business expectations.
+   Each visualization includes a target value reference to compare actual performance with business expectations.
 
 2. City-Level Insights
-
-A city-wise performance table displaying the percentage values of all key metrics for each city.
-This helps identify cities where service levels are below expectations.
+   
+   A city-wise performance table displaying the percentage values of all key metrics for each city.
+   This helps identify cities where service levels are below expectations.
 
 3. Customer Order Analysis
 
-A bar chart highlighting the Top 5 customers by total orders, helping understand major demand contributors.
+   A bar chart highlighting the Top 5 customers by total orders, helping understand major demand contributors.
 
 4. Customer-Level Service Insights
+   A customer performance table presenting:
+   
+   OTIF %
+   OT %
+   Target values
 
-A customer performance table presenting:
-
-OTIF %
-OT %
-Target values
-
-This helps identify customers whose service levels are not meeting the targeted benchmarks.
+   This helps identify customers whose service levels are not meeting the targeted benchmarks.
 
 5. Product-Level Insights
 
-A product performance matrix showing key metrics by product.
-Sparklines are used to visualize monthly performance trends, enabling quick detection of improving or declining service levels.
+   A product performance matrix showing key metrics by product.
+   Sparklines are used to visualize monthly performance trends, enabling quick detection of improving or declining service levels.
 
+### Key Insights
+
+1. All key service metrics (OT%, IF%, OTIF%) are below target levels, with On-Time (OT%) showing the largest gap, indicating it as the primary constraint affecting overall performance.
+   
+2. While OTIF% has shown a slight improvement in the recent period, this is mainly driven by a marginal increase in In-Full (IF%) performance. However, limited improvement in OT% continues to restrict overall service level growth.
+
+3. Additionally, the top 5 customers — Lotus Mart, Acclaimed Store, Vijay Store, Rel Fresh, and Coolblue — contribute significantly to total order volume and are experiencing low on-time delivery performance. Improving OT% for these high-impact customers is critical to enhancing customer satisfaction and mitigating potential revenue risks.
+
+### Dashboard
